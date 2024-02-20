@@ -8,4 +8,4 @@
 2. Berdasarkan soal nomor 1, buat diagram sederhana dari data pipeline yang dipilih. Diagram dapat dibuat dengan draw.io, excalidraw atau tools lainnya yang sejenis.\
    Jawab: 
    \
-   ![alt text](?raw=true)
+   ![alt text](01_Pengenalan Data Engineer Part 1/Screenshot/Soal Eksplorasi No. 2.drawio.png?raw=true)

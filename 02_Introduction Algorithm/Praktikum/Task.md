@@ -8,4 +8,4 @@
    
 3. Buatlah sebuah flowchart untuk menghitung luas persegi panjang dengan fitur tambahan yaitu jika hasil perhitungan luas merupakan bilangan genap maka tampilkan tulisan “even rectangle”. Jika sebaliknya tampilkan tulisan “odd rectangle”.\
    Jawab:\
-   ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/02_Introduction%20Algorithm/Screenshot/Luas%20Persegi%20with%20branching.png?raw=true)
+   ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/02_Introduction%20Algorithm/Screenshot/Luas%20Persegi%20Panjang%20with%20branching.png?raw=true)

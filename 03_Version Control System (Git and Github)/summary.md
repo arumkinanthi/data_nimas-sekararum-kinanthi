@@ -1,0 +1,2 @@
+Versioning merupakan kegiatan mengatur versi dari source code program. Beberapa tools yang digunakan untuk versioning antara lain Version Control System (VCS), Source Code Manager (SCM), dan Revision Control System (RCS). VCS dapat dibagi menjadi Single User, Centralized, dan Distibuted.
+Git (Linus Torvalds, 2005) merupakan Distributed VCS yang populer di kalangan developer untuk mengembangkan software bersama. Git digunakan untuk sinkronisasi dari banyak komputer ke remote server, juga melacak setiap perubahan yang terjadi dan menyimpan riwayat perubahannya.

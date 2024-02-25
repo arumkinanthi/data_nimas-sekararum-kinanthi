@@ -1,4 +1,4 @@
-## Soal Prioritas 1
+## Soal Eksplorasi
 
 1. Pilih project terserah kalian, praktekkan salah satu workflow serderhana dan buktikan dengan Screenshoot. Contoh workflow yang dapat digunakan adalah github flow/gitflow/trunk base.\
    Jawab:

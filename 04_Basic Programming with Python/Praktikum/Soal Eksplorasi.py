@@ -27,7 +27,7 @@ def sorting(string):
 def areAnagram(string1, string2):
    sorted1 = sorting(string1)
    sorted2 = sorting(string2)
-   if (sorted1 == sorted2):
+   if sorted1 == sorted2:
       print(f"Anagram\nPembahasan: Kata {string1} merupakan anagram dari kata {string2} karena jumlah frekuensi huruf pada dua kata tersebut adalah sama.")
    else:
       print(f"Bukan Anagram\nPembahasan: Kata {string1} bukan merupakan anagram dari kata {string2} karena jumlah frekuensi huruf pada dua kata tersebut berbeda.")

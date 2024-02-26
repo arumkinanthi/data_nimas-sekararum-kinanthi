@@ -8,11 +8,11 @@ d. Jika tiga kriteria diatas tidak terpenuhi maka tampilkan bilangan aslinya.
 
 def cetakBilangan(n):
    for i in range(1, n+1):
-      if (i % 3 == 0 and i % 5 == 0):
+      if i % 3 == 0 and i % 5 == 0:
          print("buzz")
-      elif (i % 3 == 0):
+      elif i % 3 == 0:
          print(i * i)
-      elif (i % 5 == 0):
+      elif i % 5 == 0:
          print(i * i * i)
       else:
          print(i)

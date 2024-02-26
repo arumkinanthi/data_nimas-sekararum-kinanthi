@@ -41,53 +41,50 @@ Output: High
 """
 
 def budget(dana):
-   if (0 <= dana <= 50):
+   if 0 <= dana <= 50:
       score = 4
-   elif (51 <= dana <= 80):
+   elif 51 <= dana <= 80:
       score = 3
-   elif (81 <= dana <= 100):
+   elif 81 <= dana <= 100:
       score = 2
-   elif (dana > 100):
+   elif dana > 100:
       score = 1
    return score
 
 def waktu(duration):
-   if (0 <= duration <= 20):
+   if 0 <= duration <= 20:
       score = 10
-   elif (21 <= duration <= 30):
+   elif 21 <= duration <= 30:
       score = 5
-   elif (31 <= duration <= 50):
+   elif 31 <= duration <= 50:
       score = 2
-   elif (duration > 50):
+   elif duration > 50:
       score = 1
    return score
 
 def kesulitan(difficulty):
-   if (0 <= difficulty <= 3):
+   if 0 <= difficulty <= 3:
       score = 10
-   elif (4 <= difficulty <= 6):
+   elif 4 <= difficulty <= 6:
       score = 5
-   elif (8 <= difficulty <= 10):
+   elif 8 <= difficulty <= 10:
       score = 1
-   elif (difficulty > 10):
+   elif difficulty > 10:
       score = 0
    return score
 
 def totalScore(dana, duration, difficulty):
    total_score = budget(dana) + waktu(duration) + kesulitan(difficulty)
    print(f"Total skor: {total_score}") # print total score
-   if (17 <= total_score <= 24):
+   if 17 <= total_score <= 24:
       result = "High"
-      print(f"Priority: {result}")
-   elif (10 <= total_score <= 16):
+   elif 10 <= total_score <= 16:
       result = "Medium"
-      print(f"Priority: {result}")
-   elif (3 <= total_score <= 9):
+   elif 3 <= total_score <= 9:
       result = "Low"
-      print(f"Priority: {result}")
-   elif (total_score <= 2):
+   elif total_score <= 2:
       result = "Impossible"
-      print(f"Priority: {result}")
+   print(f"Priority: {result}")
    print("")
 
 budget1 = 40

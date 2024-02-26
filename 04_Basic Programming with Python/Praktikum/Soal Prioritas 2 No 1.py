@@ -27,24 +27,24 @@ Output: 25000
 """
 
 def tarifBerat(weight):
-   if (1 <= weight <= 20):
+   if 1 <= weight <= 20:
       tarif = 10000
-   elif (21 <= weight <= 30):
+   elif 21 <= weight <= 30:
       tarif = 15000
-   elif (31 <= weight <= 60):
+   elif 31 <= weight <= 60:
       tarif = 20000
-   elif (weight > 60):
+   elif weight > 60:
       tarif = 45000
    return tarif
 
 def tarifJarak(distance):
-   if (1 <= distance <= 5):
+   if 1 <= distance <= 5:
       tarif = 20000
-   elif (6 <= distance <= 15):
+   elif 6 <= distance <= 15:
       tarif = 5000
-   elif (16 <= distance <= 30):
+   elif 16 <= distance <= 30:
       tarif = 10000
-   elif (distance > 30):
+   elif distance > 30:
       tarif = 15000
    return tarif
 

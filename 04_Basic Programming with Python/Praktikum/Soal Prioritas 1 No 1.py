@@ -2,7 +2,7 @@
 
 def luasPersegiPanjang(length, width):
    result = length * width
-   if (result % 2 == 0):
+   if result % 2 == 0:
       print(f"Area result: {result}, it is even rectangle.")
    else:
       print(f"Area result: {result}, it is odd rectangle.")

@@ -80,7 +80,6 @@ class KelasLatihan(Pelatih):
       super().__init__(nama, spesialisasi, tahunPengalaman)
       self.__jenisLatihan = jenisLatihan
       self.__jadwal = jadwal
-      self.__daftarPelanggan = {}
       
    def getJenisLatihan(self):
       return self.__jenisLatihan

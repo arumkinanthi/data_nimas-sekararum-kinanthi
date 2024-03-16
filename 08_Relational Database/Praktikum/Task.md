@@ -6,14 +6,14 @@ Buatlah rancangan skema database dengan kriteria sebagai berikut:
 - Sistem dapat mencatat detail transaksi pembelian dari pelanggan.
 
 Jawab:
-![image](08_Relational Database\Screenshot\alta_online_shop ERD.png)
+![alt text](08_Relational Database\Screenshot\alta_online_shop ERD.png)
 
 ## Data Definition Language (DDL)
 1. Create database alta_online_shop.
-   ![image](08_Relational Database\Screenshot\CREATE DATABASE.png)
+   ![alt text](08_Relational Database\Screenshot\CREATE DATABASE.png)
 2. Dari schema Olshop yang telah kamu kerjakan, implementasikanlah menjadi table pada MySQL.
    - Create table user.
-   ![image](08_Relational Database\Screenshot\CREATE TABLE USER.png)
+   ![alt text](08_Relational Database\Screenshot\CREATE TABLE USER.png)
    - Create table product, product type, operators, product description, payment_method.
    - Create table transaction, transaction detail.
 3. Create tabel kurir dengan field id, name, created_at, updated_at.

@@ -6,7 +6,7 @@ Buatlah rancangan skema database dengan kriteria sebagai berikut:
 - Sistem dapat mencatat detail transaksi pembelian dari pelanggan.
 
 Jawab:
-![alt text](08_Relational Database\Screenshot\alta_online_shop ERD.png)
+![plot](08_Relational Database\Screenshot\alta_online_shop ERD.png)
 
 ## Data Definition Language (DDL)
 1. Create database alta_online_shop.

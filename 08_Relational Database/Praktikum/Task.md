@@ -7,10 +7,9 @@ Buatlah rancangan skema database dengan kriteria sebagai berikut:
 
 Jawab:
 ![plot](08_Relational Database\Screenshot\alta_online_shop ERD.png)
-
 ## Data Definition Language (DDL)
 1. Create database alta_online_shop.
-   ![alt text](08_Relational Database\Screenshot\CREATE DATABASE.png)
+   ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/08_Relational%20Database/Screenshot/CREATE%20DATABASE.png?raw=true)
 2. Dari schema Olshop yang telah kamu kerjakan, implementasikanlah menjadi table pada MySQL.
    - Create table user.
    ![alt text](08_Relational Database\Screenshot\CREATE TABLE USER.png)

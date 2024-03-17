@@ -7,22 +7,22 @@
    - AUTH
    ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/AUTH%20READ.png?raw=true)
    - CLIENT
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20CREATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20READ.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20UPDATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20DELETE.png?raw=true)
+      - CREATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20CREATE.png?raw=true)
+      - READ: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20READ.png?raw=true)
+      - UPDATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20UPDATE.png?raw=true)
+      - DELETE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/CLIENT%20DELETE.png?raw=true)
    - USER
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20CREATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20READ.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20UPDATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20DELETE.png?raw=true)
+      - CREATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20CREATE.png?raw=true)
+      - READ: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20READ.png?raw=true)
+      - UPDATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20UPDATE.png?raw=true)
+      - DELETE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/USER%20DELETE.png?raw=true)
    - BOOK
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20CREATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20READ.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20UPDATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20DELETE.png?raw=true)
+      - CREATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20CREATE.png?raw=true)
+      - READ: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20READ.png?raw=true)
+      - UPDATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20UPDATE.png?raw=true)
+      - DELETE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/BOOK%20DELETE.png?raw=true)
    - RENT
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/RENT%20CREATE.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/RENT%20READ.png?raw=true)
+      - CREATE: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/RENT%20CREATE.png?raw=true)
+      - READ: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/09_Rest%20API/Screenshot/RENT%20READ.png?raw=true)
 3. Dokumentasi Eksplorasi:
    - Simpan semua request dan response yang berkaitan dengan RentABook API dalam Postman Collection baru.

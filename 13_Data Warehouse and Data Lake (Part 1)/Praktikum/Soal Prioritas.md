@@ -25,7 +25,7 @@
    - Menggunakan Citus dalam pembuatan tabel.
    - Menerapkan replication.
    - Menerapkan sharding.\
-   Jawab:\
+   Jawab:
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/Prioritas%202%20a.png?raw=true)
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/Prioritas%202%20b.png?raw=true)
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/Prioritas%202%20c.png?raw=true)

@@ -5,7 +5,7 @@
    Dalam pengimplementasian data warehouse untuk sistem penyimpanan database, terdapat bebrapa tantangan yang akan dihadapi oleh perusahaan. Kesulitan dalam aspek manajemen struktur data dapat menjadi salah satu tantangan yang akan dihadapi karena jika data yang masuk berjumlah banyak, proses ETL (Extract, Transform, Load) akan memperlambat proses penyimpanan data tersebut ke dalam data warehouse. Sebagai lanjutan dari banyaknya jumlah data yang masuk, sistem penyimpanan akan semakin kesulitan untuk melakukan pencarian data dan analisis dan akan mengurangi kecepatan dan efisiensi. Data warehouse juga membutuhkan cost yang tinggi dengan melibatkan infrastruktur yang cukup kompleks, sumber daya manusia, dan pemrosesan data untuk ETL yang dapat memakan waktu dan biaya besar.
 2. Perhatikan diagram ERD berikut.
    Berdasarkan diagram ERD tersebut buatlah berbagai tabel dengan menggunakan Citus.\
-   Jawab:\
+   Jawab:
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/Prioritas%201%20Users.png?raw=true)
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/Prioritas%201%20Categories.png?raw=true)
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/Prioritas%201%20Posts.png?raw=true)
@@ -17,7 +17,7 @@
 ## Soal Prioritas 2
 
 1. Sebuah perusahaan yang bergerak di bidang jasa penyewaan kendaraan bermotor ingin menerapkan penggunaan data warehouse dalam operasional bisnis. Data warehouse nantinya digunakan untuk menganalisis penggunaan kendaraan bermotor, kepuasan konsumen serta menganalisis keuntungan yang diperoleh setiap bulannya. Berdasarkan skenario tersebut buatlah rancangan skema database dalam bentuk diagram ERD. Rancangan dapat dibuat dengan menggunakan aplikasi draw.io atau aplikasi lainnya yang sejenis.\
-   Jawab:\
+   Jawab:
    ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/13_Data%20Warehouse%20and%20Data%20Lake%20(Part%201)/Screenshot/Soal%20Prioritas/ERD%20Prioritas%202.png?raw=true)
 
 

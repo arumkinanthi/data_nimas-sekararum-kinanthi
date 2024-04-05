@@ -45,4 +45,11 @@
       - sentiment_bad.csv
       - sentiment_neutral.csv
       - sentiment_counts.csv
-      - Backup database sentiment_chatgpt.sql
+      - Backup database sentiment_chatgpt.sql\
+   - Create Service Account Keys:
+      ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/4%20create_service_account_keys.png?raw=true)
+   - Create Bucket:
+      ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/4%20create_bucket.png?raw=true)
+   - Data Success Upload
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/4%20data_success_upload_bucket.png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/4%20data_success_upload_bucket_output.png?raw=true)

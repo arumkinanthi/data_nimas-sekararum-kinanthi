@@ -14,7 +14,7 @@
       - Metode classify_sentiment() akan membagi tweets ke dalam kategori good, bad, atau neutral.
       - Metode save_to_csv() akan menyimpan tweets yang diklasifikasikan ke dalam file CSV terpisah: sentiment_good.csv, sentiment_bad.csv, dan sentiment_neutral.csv.
       ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/2%20aa.png?raw=true)\
-      Output: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%202%20aa.png?raw=true)
+      Output Klasifikasi: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%202%20aa.png?raw=true)
    - Hitung dan simpan jumlah tweets untuk masing-masing kategori sentimen ke dalam file sentiment_counts.csv menggunakan metode summarize_counts().
       ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/2%20b.png?raw=true)
 
@@ -35,9 +35,9 @@
       - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%203%20bb%20(a).png?raw=true)
       - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%203%20bb%20(b).png?raw=true)
    - Dokumentasi masing-masing tabel hasil insert dalam bentuk screenshot
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(a).png.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(b).png.png?raw=true)
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(c).png.png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(a).png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(b).png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(c).png?raw=true)
 
 4. Integrasi dengan Google Cloud Storage:
 - Buat satu bucket di Google Cloud Storage, dengan nama sentiment_chatgpt_storage, untuk menyimpan semua file yang relevan:

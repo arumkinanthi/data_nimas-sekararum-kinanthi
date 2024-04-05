@@ -40,9 +40,9 @@
       - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20c%20(c).png?raw=true)
 
 4. Integrasi dengan Google Cloud Storage:
-- Buat satu bucket di Google Cloud Storage, dengan nama sentiment_chatgpt_storage, untuk menyimpan semua file yang relevan:
-   - sentiment_good.csv
-   - sentiment_bad.csv
-   - sentiment_neutral.csv
-   - sentiment_counts.csv
-   - Backup database sentiment_chatgpt.sql
+   - Buat satu bucket di Google Cloud Storage, dengan nama sentiment_chatgpt_storage, untuk menyimpan semua file yang relevan:
+      - sentiment_good.csv
+      - sentiment_bad.csv
+      - sentiment_neutral.csv
+      - sentiment_counts.csv
+      - Backup database sentiment_chatgpt.sql

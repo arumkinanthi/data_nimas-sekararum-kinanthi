@@ -13,7 +13,7 @@
       - Metode load_data() akan membaca dataset ke dalam struktur data yang sesuai.
       - Metode classify_sentiment() akan membagi tweets ke dalam kategori good, bad, atau neutral.
       - Metode save_to_csv() akan menyimpan tweets yang diklasifikasikan ke dalam file CSV terpisah: sentiment_good.csv, sentiment_bad.csv, dan sentiment_neutral.csv.
-      ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/2%20aa.png?raw=true)
+      ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/2%20aa.png?raw=true)\
       Output: ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%202%20aa.png?raw=true)
    - Hitung dan simpan jumlah tweets untuk masing-masing kategori sentimen ke dalam file sentiment_counts.csv menggunakan metode summarize_counts().
       ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/2%20b.png?raw=true)
@@ -30,7 +30,7 @@
       - create_tables untuk mendefinisikan dan membuat tabel-tabel di atas jika belum ada.
          ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20b%20(a).png?raw=true)
       - insert_from_csv untuk membaca data dari CSV dan menginsert-nya ke dalam database sesuai tabel yang relevan.
-         ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20b%20(b).png?raw=true)
+         ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/3%20b%20(b).png?raw=true)\
       Output:
       - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%203%20bb%20(a).png?raw=true)
       - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%201%20DE/Screenshot/Output%203%20bb%20(b).png?raw=true)

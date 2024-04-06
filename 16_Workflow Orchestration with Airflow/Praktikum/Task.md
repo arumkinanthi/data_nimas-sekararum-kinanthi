@@ -1,4 +1,4 @@
-## Soal Prioritas 1 (80)
+## 📚 Soal Prioritas 1
 
 1. Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
    ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/16_Workflow%20Orchestration%20with%20Airflow/Screenshot/Soal/dag_exercise.png?raw=true)\
@@ -6,7 +6,7 @@
    - Satu task menggambarkan perintah bash yang harus dijalankan.
    - Gunakan BashOperator dalam membuat DAG.
    Jawab:
-      - 
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/16_Workflow%20Orchestration%20with%20Airflow/Screenshot/Soal/dag_exercise.png?raw=true)
 
 2. Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
    ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/16_Workflow%20Orchestration%20with%20Airflow/Screenshot/Soal/DAG_EXEC_FIX_02.png?raw=true)\
@@ -20,7 +20,7 @@
       - 
    
    
-## 📚 Soal Prioritas 2 (20)
+## 📚 Soal Prioritas 2
 Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:       
 ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/16_Workflow%20Orchestration%20with%20Airflow/Screenshot/Soal/dag_exec_03.png?raw=true)\
 Kriteria yang harus dipenuhi:
@@ -34,7 +34,7 @@ Jawab:
    
    
    
-## 📚 Soal Eksplorasi (20)
+## 📚 Soal Eksplorasi
 Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
 ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/16_Workflow%20Orchestration%20with%20Airflow/Screenshot/Soal/DAG_EXEC_04.png?raw=true)\
 Kriteria yang harus dipenuhi:

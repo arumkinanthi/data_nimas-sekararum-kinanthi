@@ -6,7 +6,7 @@
    - Satu task menggambarkan perintah bash yang harus dijalankan.
    - Gunakan BashOperator dalam membuat DAG.\
    Jawab:
-      - ![alt text]()
+   - ![alt text]()
 
 2. Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
    ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/16_Workflow%20Orchestration%20with%20Airflow/Screenshot/Soal/DAG_EXEC_FIX_02.png?raw=true)\

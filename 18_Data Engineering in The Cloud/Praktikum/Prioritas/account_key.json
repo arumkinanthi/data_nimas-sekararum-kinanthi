@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "alta-data-engineer-e1a4f",
+  "private_key_id": "4c9cd7c4f632f056b550d750f283447bfa183b28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmSc4DJ/DwwT8/\nwAo2X2HRw+vOVIQFtc0sedtqyDjKGGU17e80yJRlVBXu8LCJL3WFrW8Z8eXBHe/0\nTtilGuGkISOESNYalHtfNeL6usHizJvkLLpU16Z94ZjO09VdMQt1kc9bCXeqAFgv\nJILBfIeFVm7LfMLb6ixyJnPsTjvtUIRRSrW3xLl6HtN0WH5QmAVqnM7ECrDCyxuN\nK0hEVGuUHzXVAit4AU2N/Ox3U6nyaihAqvFi/zyE4j08zLjiDlkoCJVEmb/5Wuxh\noXYeHLbYS0hRVBcywUJqg9+WdJi73uJ57vU949Klm2e9ve32zNJ9PlzNejReo1YI\nALqa1MrZAgMBAAECggEAGk21Eg1mBhn2EKDRUhB8agX9GEIzhVkLVMG3J4j3ErYR\nLHAFVUAf2SIX5hfvP4QLqag+2XJzeWdsPCT3YrEsiB3bKbhWcGs+/gHeyZ0ea5XE\nra81j5NyeURk5jKJSZh8djh+Uv7duD0dteH8nPE/LqRMGlFohrOKxvO2L+b1gRro\nWP9Vb9EDGm+nxkqWDn9a/XzN84r/zC4l7CLcSL2/UuQnhgE2aZswQa+FSn3XYVm5\nrBwVb1vvCjuxJMQH4c82detaIwZ9EvzQcTK7uLIuE/SFYYoqm63UjTcwydF8OogC\nsQl9v1+JE9Xx8tTHj6w5dwdDtigBogF4J84Wj7BD0QKBgQDoIBhJsPDFuXEiCH58\nKrjywxfzhzlzGeC0cFTeCCbBuA/8QeTHDyY3OYNjYicHA4RpjcBNrN1h9UfL19gE\nrIDqGDjGP8lQ9qx6UjczbgIvqh6FkWAkttn4ZI10xz/f6VLXpjmn3FXJ9D2Mrpav\nZHDxsXdfdRVVAfRxyGzU5NSTWwKBgQC3ZDUP0mHTAT6DV7VaZVnRPg/Z4QdrpRTC\ndXzxzSrc+l1EDsRRJOPMr42+kh4BBdo+s/WyirwebxIckMjMKrWQY0zksPgS+oj0\n9Rg4ER9mAQjv6Aj7uTve1vNWqqrxF7gAVKRgGDrRlxU1r3f8YRLrOBYCpOvPA5MU\n4a7fBBj02wKBgFz8Rl52t+ys3YoBlxGMV6w/xL90Quo9yordmNGcuFHPtu+ZQdkP\n04I50s0kC3g+y3MxKoCzJ7fO9uTMYSd2Juofq9aWxMFfHzac6qn6fnuzjSh6VOZA\nLU7YkOXfz1GV+O6UEvKQS/lrkqBha9F0zd2z9prRnyr/bnmKDTa3OASTAoGABK55\nMEs1lhZdCytNBN67eTz1WKGG9/eB3Sj0pJOROYzmnpsl5dBkRFBi9O9z9qC4nosn\nhYRHIxvAwZvslFGuyt3OE7R00L82idJL6Pp+67KxELbCq/JhleG02oyGyprJZrDC\ndXWI4trRfspY7MdpnTmUTkL5hhJYSdstBKJtJKsCgYAbIkFhKnFGFOL+/+oGOeMT\nVMdvNpJLo2QOS4ZRcCfAnvwkAgCg6xBBDOwj0cDv0ibEyhDuVSxd+h9huzH2wKtf\ngJN5jk7uiyYoflxW6j7YpnrSAgNQbGdTS2Z5q3Dmi/uUC09rqkJX/owbaPsMgXNq\nPJtoO4Pq4qGS7f+vAXNJCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v35dj@alta-data-engineer-e1a4f.iam.gserviceaccount.com",
+  "client_id": "117573040035426320307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v35dj%40alta-data-engineer-e1a4f.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,18 @@
+1. Sebutkan dan jelaskan berbagai tools yang dapat digunakan untuk meningkatkan kualitas dari sebuah data!\
+   Jawab: \
+   Dalam meningkatkan kualitas dari sebuah data, terdapat beberapa langkah yang harus dilakukan, seperti data cleaning, data governance, data profiling, data matching, dan data quality reporting. Salah satu tools yang digunakan dalam data cleaning adalah Talend yang dikenal sebagai tools Data Quality yang ramah pengguna dan memiliki fitur baru manajemen metadata untuk data lake dan big data dalam big data cleaning. Dalam data governance, terdapat beberapa tools yang dapat digunakan debagai berikut.
+   - Amundsen: platform open source dan membantu pengelolaan metadata dengan menyediakan informasi rinci, mempermudah akses dan penggunaan data, menetapkan kepemilikan data dengan jelas, dan mendukung kolaborasi pada stakeholder.
+   - Apache Atlas: digunakan untuk mengelola metadata, melakukan klasifikasi data berdasarkan kebijakan keamanan dan regulasi, menyediakan visualisasi pengelolaan data, menjaga kejelasan dan keamanan data, dan tim dapat berkolaborasi dengan fitur komentar, diskusi, penilaian data, dan pembaruan status data.
+   - Atlan: menyediakan platform yang lengkap untuk manajemen metadata, proses penemuan data yang cepat, dapat melakukan klasifikasi data, menerapkan kebijakan data, dan memiliki tampilan serta fitur visualisasi yang baik.
+   - DataHub: platform yang dikembangkan oleh LinkedIN ini berfokus pada manajemen metadata, menyediakan fitur pencarian data yang kuat, dan kolaborasi tim dapat terjadi secara efektif.\
+   Talend untuk data cleaning juga dapat digunakan untuk data profiling karena dapat melakukan analisis statistik, deteksi kesalahan data dan duplikasi, identifikasi nilai yang hilang, dan melakukan visualisasi hasil profiling. Data matching dan data quality reporting juga dapat menggunakan platform Talend sebagai tool karena platform ini dapat melakukan deduplikasi data dan mencocokkan string dengan algoritma untuk data matching serta memeriksa kualitas data, menghasilkan laporan dan menyediakan dashboard untuk monitoring data quality.\
+   (Sumber 1: [amundsen.io](https://www.amundsen.io/amundsen/))\
+   (Sumber 2: [atlas.apache.org](https://atlas.apache.org/#/))
+   (Sumber 3: [atlan.com](https://atlan.com/open-source-data-governance-tools/))
+   (Sumber 4: [talend.com](https://www.talend.com/resources/data-governance-tools/))
+
+2. Terdapat berbagai cara dalam meningkatkan kualitas dari sebuah data (data quality) seperti data governance, data profiling dan data matching. Dari berbagai cara tersebut, sebutkan berbagai tantangan yang perlu diperhatikan!\
+   Jawab: \
+   Tantangan utama yang harus diperhatikan dalam meningkatkan kualitas dari sbeuah data adalah format data yang tidak konsisten karena keberagaman sumber data yang mengakibatkan tipe dan struktur data yang kompleks sehingga hambatan dalam integrasi data meningkat. Tantangan lain dapat berupa volume data yang sangat besar sehingga sulit menilai kualitas data dalam jangka waktu standar, biasanya akan memerlukan waktu yang lebih lama.\
+   Dikarenakan perubahan data yang sangat cepat dalam big data dan validitas data dapat berusia sangat singkat, diperlukan waktu pengelolaan dan pengaksesan data yang cepat pula. Perusahaan yang membutuhkan data real-time untuk keperluan analisis tetapi tidak dapat mengelola dan mengakses data secara cepat, maka data yang diperoleh oleh perusahaan tersebut terhitung tidak valid dan tertinggal dari keadaan yang sebenarnya sehingga akan memengaruhi hasil analisis yang menyebabkan kesalahan dalm pengambilan keputusan.\
+   (Sumber 2: [datascience.codata.org](https://datascience.codata.org/articles/10.5334/dsj-2015-002))\

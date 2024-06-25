@@ -18,7 +18,7 @@
    - Task kedua adalah menghitung jumlah dari semua bilangan yang didapatkan dari task pertama.
    - Task terakhir adalah menentukan apakah jumlah dari semua bilangan merupakan bilangan genap atau bukan. Jika merupakan bilangan genap tampilkan tulisan “Even Sum”. Jika tidak maka tampilkan tulisan “Odd Sum”.
    - Gunakan X-COM dalam proses pertukaran data antar task.
-   - Gunakan PythonOperator dalam membuat DAG.
+   - Gunakan PythonOperator dalam membuat DAG.\
    Jawab:\
       DAG:
       - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/17_Workflow%20Orchestration%20with%20Airflow/Screenshot/prioritas1_2_a.png?raw=true)\
@@ -40,7 +40,7 @@ Kriteria yang harus dipenuhi:
 - Task kedua bertujuan untuk menulis hasil dari response API ke dalam file CSV
 - Task ketiga bertujuan untuk menulis hasil dari response API ke dalam file txt.
 - Task terakhir bertujuan untuk menampilkan pesan “done!” untuk menyatakan tugas telah selesai.
-- Gunakan Operator berdasarkan jenis task yang dijalankan.
+- Gunakan Operator berdasarkan jenis task yang dijalankan.\
 Jawab:\
    DAG:
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/17_Workflow%20Orchestration%20with%20Airflow/Screenshot/prioritas2_a.png?raw=true)\

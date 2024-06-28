@@ -7,7 +7,7 @@
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_1.png?raw=true)
    - Update requirements.txt untuk mencerminkan perubahan tersebut.
    - Download dataset dan kemudian simpan kedalam folder data_source
-   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_1.png?raw=true)
+   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_2.png?raw=true)
    - Struktur file csv
    - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/Soal/soal2.png?raw=true)
 

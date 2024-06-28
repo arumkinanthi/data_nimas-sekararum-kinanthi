@@ -1,22 +1,22 @@
 ## 📝 Task
 
-   ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/Soal/soal1.png?raw=true)\
+   ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/Soal/soal1.png?raw=true)
 
 1. Persiapan Lingkungan Pengembangan
    - Gunakan virtual environment venv_code yang telah ada. Modifikasi environment ini untuk memasukkan dependencies baru yang diperlukan, seperti library pandas, airflow, dan library lain yang diperlukan.
-   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_1.png?raw=true)\
+   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_1.png?raw=true)
    - Update requirements.txt untuk mencerminkan perubahan tersebut.
    - Download dataset dan kemudian simpan kedalam folder data_source
-   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_1.png?raw=true)\
+   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no1_1.png?raw=true)
    - Struktur file csv
-   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/Soal/soal2.png?raw=true)\
+   - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/Soal/soal2.png?raw=true)
 
 
 2. Data Ingestion dan Persiapan Data Lake / Data Werehouse
    - Penyiapan Skrip Python
       - Buat file Python dengan nama data_ingestion.py.
       - Dalam file ini, buat kelas dengan nama DataLakeBuilder.
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_1.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_1.png?raw=true)
    - Kelas DataLakeBuilder
       - Kelas ini harus memiliki metode untuk membaca data dari file CSV, menangani missing values dan outliers, dan menyimpan data ke format yang sesuai untuk Data Lake.
       - read_csv_data(self, file_path): Metode untuk membaca data dari file CSV.
@@ -26,31 +26,31 @@
    - Metode read_csv_data
       - Gunakan pandas untuk membaca file CSV.
       - Contoh: pd.read_csv(file_path) di mana file_path adalah path ke file CSV.
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_2.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_2.png?raw=true)
    - Metode handle_missing_values
       - Terapkan strategi untuk menangani missing values, seperti pengisian nilai (imputation) atau penghapusan baris/kolom.
       - Contoh: Menggunakan df.fillna() atau df.dropna() dari pandas.
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_3.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_3.png?raw=true)
    - Metode handle_outliers
       - Gunakan teknik statistik untuk mendeteksi dan menangani outliers.
       - Contoh: IQR (Interquartile Range) untuk mengidentifikasi outliers dan kemudian menggantinya atau menghapusnya.
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_4.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_4.png?raw=true)
    - Metode save_to_parquet
       - Simpan DataFrame yang telah diolah ke format Parquet, yang efisien untuk Data Lake.
       - Contoh: df.to_parquet(file_name).
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_5.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_5.png?raw=true)
    - Eksekusi Script
       - Buat instance dari DataLakeBuilder dan panggil metode-metodenya untuk setiap file CSV (events.csv, customers.csv, tickets.csv, transactions.csv, dan customer_feedback.csv).
       - Pastikan semua file terbaca dan diolah dengan benar, lalu simpan dalam format Parquet.
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_7.png?raw=true)\
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_8.png?raw=true)\
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_9.png?raw=true)\
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_10.png?raw=true)\
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_11.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_7.png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_8.png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_9.png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_10.png?raw=true)
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_11.png?raw=true)
    - Validasi Data
       - Setelah semua data disimpan dalam format Parquet, buat metode untuk memvalidasi atau menampilkan ringkasan data.
       - Contoh: Metode validate_data(self, file_path) yang membaca file Parquet dan menampilkan ringkasan statistik atau beberapa baris awal data.
-      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_6.png?raw=true)\
+      - ![alt text](https://github.com/arumkinanthi/data_nimas-sekararum-kinanthi/blob/main/Code%20Competence%202%20DE/Screenshot/no2_6.png?raw=true)
    
    
 3. Transformasi Data dan Pemuatan ke Data Warehouse
